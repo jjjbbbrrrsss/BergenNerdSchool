@@ -1,0 +1,22 @@
+{
+  "name": "bergennerdschool",
+  "version": "1.0.0",
+  "description": "NERD",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjbbbrrrsss/BergenNerdSchool.git"
+  },
+  "keywords": [
+    "YEE"
+  ],
+  "author": "RS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjjbbbrrrsss/BergenNerdSchool/issues"
+  },
+  "homepage": "https://github.com/jjjbbbrrrsss/BergenNerdSchool#readme"
+}
